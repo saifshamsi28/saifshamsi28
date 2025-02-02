@@ -112,7 +112,7 @@
   &nbsp;
 <p>&nbsp;
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=saifshamsi28&show_icons=true&theme=dark#gh-dark-mode-only&locale=en" alt="saifshamsi28" width="300" height="200"" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifshamsi28&layout=donut&theme=dark#gh-dark-mode-only" alt="saifshamsi28" width="300" height="200"" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifshamsi28&layout=donut&theme=dark#gh-dark-mode-only" alt="saifshamsi28" width="300" height="150" />
 </p>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=saifshamsi28&show_icons=true&theme=dark#gh-dark-mode-only)
