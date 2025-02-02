@@ -116,7 +116,7 @@
   ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saifshamsi28&layout=donut&theme=dark#gh-dark-mode-only)
 </p>
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=saifshamsi28&show_icons=true&theme=dark#gh-dark-mode-only" alt="saifshamsi28" width="300" height="200"/>
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=saifshamsi28&show_icons=true&theme=dark#gh-dark-mode-only" alt="saifshamsi28" />
   
 
 ![MD SAIFULLAH's GitHub Contribution stats](https://github-contributor-stats.vercel.app/api?username=saifshamsi28&theme=dark#gh-dark-mode-only&combine_all_yearly_contributions=true&limit=5)
