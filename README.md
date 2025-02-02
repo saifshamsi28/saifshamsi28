@@ -118,13 +118,18 @@
   </div>
 
   <!-- Streak Stats -->
-  <div style="margin-top: 10px;">
+  <div style="margin-top: 30px;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=saifshamsi28&card_width=800&show_icons=true&theme=dark#gh-dark-mode-only" alt="Streak Stats" width="500"  />
   </div>
 </div>
 
+<div align="center">
+  
+  ![MD SAIFULLAH's GitHub Contribution stats](https://github-contributor-stats.vercel.app/api?username=saifshamsi28&theme=dark#gh-dark-mode-only&combine_all_yearly_contributions=true&limit=5)
+</div>
 
 
-![MD SAIFULLAH's GitHub Contribution stats](https://github-contributor-stats.vercel.app/api?username=saifshamsi28&theme=dark#gh-dark-mode-only&combine_all_yearly_contributions=true&limit=5)
+
+
 
 
