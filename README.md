@@ -119,7 +119,7 @@
 
   <!-- Streak Stats -->
   <div style="margin-top: 10px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=saifshamsi28&card_width=800&show_icons=true&theme=dark#gh-dark-mode-only" alt="Streak Stats" width="450" height="200" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=saifshamsi28&card_width=800&show_icons=true&theme=dark#gh-dark-mode-only" alt="Streak Stats" width="700"  />
   </div>
 </div>
 
