@@ -113,7 +113,7 @@
 <div align="center">
   <!-- GitHub Stats and Top Languages Side by Side -->
   <img src="https://github-readme-stats.vercel.app/api?username=saifshamsi28&show_icons=true&theme=dark#gh-dark-mode-only&locale=en" alt="GitHub Stats" width="300" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifshamsi28&layout=donut&theme=dark#gh-dark-mode-only" alt="Top Languages" width="300" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifshamsi28&layout=donut&theme=dark#gh-dark-mode-only" alt="Top Languages" width="300" height="200" />
 </div>
 
 <div align="center">
