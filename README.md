@@ -112,10 +112,10 @@
   &nbsp;
 <p>&nbsp;
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=saifshamsi28&show_icons=true&theme=dark#gh-dark-mode-only&locale=en" alt="saifshamsi28" width="300" height="200"" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifshamsi28&layout=donut&theme=dark#gh-dark-mode-only" alt="saifshamsi28" width="300" height="150" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifshamsi28&layout=donut&theme=dark#gh-dark-mode-only" alt="saifshamsi28" width="200" height="150" />
 </p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=saifshamsi28&show_icons=true&theme=dark#gh-dark-mode-only)
+![](https://github-readme-streak-stats.herokuapp.com/?user=saifshamsi28&card_width=300&show_icons=true&theme=dark#gh-dark-mode-only)
   
 
 ![MD SAIFULLAH's GitHub Contribution stats](https://github-contributor-stats.vercel.app/api?username=saifshamsi28&theme=dark#gh-dark-mode-only&combine_all_yearly_contributions=true&limit=5)
