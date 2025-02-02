@@ -122,6 +122,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=saifshamsi28&card_width=800&show_icons=true&theme=dark#gh-dark-mode-only" 
          alt="Streak Stats" 
          width="500" 
+      height = "150"
          style="margin-top: 20px;" />
 </div>
 
