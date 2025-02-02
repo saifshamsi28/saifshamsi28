@@ -110,19 +110,17 @@
 </p>
   &nbsp;
   &nbsp;
-<p>&nbsp;
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=saifshamsi28&show_icons=true&theme=dark#gh-dark-mode-only&locale=en" alt="saifshamsi28" width="300" height="200"" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifshamsi28&layout=donut&theme=dark#gh-dark-mode-only" alt="saifshamsi28" width="200" height="150" />
-</p>
+<div align="center">
+  <!-- GitHub Stats and Top Languages Side by Side -->
+  <img src="https://github-readme-stats.vercel.app/api?username=saifshamsi28&show_icons=true&theme=dark#gh-dark-mode-only&locale=en" alt="GitHub Stats" width="400" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifshamsi28&layout=donut&theme=dark#gh-dark-mode-only" alt="Top Languages" width="400" height="200" />
+</div>
 
+<div align="center">
+  <!-- Streak Stats Centered Below -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saifshamsi28&card_width=800&show_icons=true&theme=dark#gh-dark-mode-only" alt="Streak Stats" width="800" height="200" />
+</div>
 
-
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-![](https://github-readme-streak-stats.herokuapp.com/?user=saifshamsi28&card_width=500&show_icons=true&theme=dark#gh-dark-mode-only)
-  
 
 ![MD SAIFULLAH's GitHub Contribution stats](https://github-contributor-stats.vercel.app/api?username=saifshamsi28&theme=dark#gh-dark-mode-only&combine_all_yearly_contributions=true&limit=5)
 
