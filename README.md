@@ -110,11 +110,16 @@
 </p>
   &nbsp;
   &nbsp;
-<p>&nbsp;
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=saifshamsi28&show_icons=true&locale=en" alt="saifshamsi28" width="300" height="150" style="background-color: #f0f0f0;" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=saifshamsi28&" alt="saifshamsi28" width="300" height="150" style="background-color: #f0f0f0;"/>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=saifshamsi28&show_icons=true&locale=en&bg_color=F0F0F0&title_color=000000&text_color=333333" alt="saifshamsi28" width="300" height="150" />
 </p>
+
+<p align="right">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saifshamsi28&background=F0F0F0&stroke=000000&ring=FF5733&fire=FF4500&currStreakNum=333333&sideNums=333333&currStreakLabel=000000&sideLabels=000000&dates=333333" alt="saifshamsi28" width="300" height="150" />
+</p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saifshamsi28&show_icons=true&locale=en&layout=compact" alt="saifshamsi28" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saifshamsi28&show_icons=true&locale=en&layout=compact&bg_color=F0F0F0&title_color=000000&text_color=333333" alt="saifshamsi28" />
 </p>
+
 
