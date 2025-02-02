@@ -113,13 +113,13 @@
 <div align="center">
   <!-- GitHub Stats and Top Languages -->
   <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-    <img src="https://github-readme-stats.vercel.app/api?username=saifshamsi28&show_icons=true&theme=dark#gh-dark-mode-only&locale=en" alt="GitHub Stats" width="300" height="100" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifshamsi28&layout=compact&theme=dark#gh-dark-mode-only" alt="Top Languages" width="300" height="100" />
+    <img src="https://github-readme-stats.vercel.app/api?username=saifshamsi28&show_icons=true&theme=dark#gh-dark-mode-only&locale=en" alt="GitHub Stats" width="350" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifshamsi28&layout=compact&theme=dark#gh-dark-mode-only" alt="Top Languages" width="350" height="150" />
   </div>
 
   <!-- Streak Stats -->
   <div style="margin-top: 20px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=saifshamsi28&card_width=800&show_icons=true&theme=dark#gh-dark-mode-only" alt="Streak Stats" width="600" height="300" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=saifshamsi28&card_width=800&show_icons=true&theme=dark#gh-dark-mode-only" alt="Streak Stats" width="500" height="300" />
   </div>
 </div>
 
