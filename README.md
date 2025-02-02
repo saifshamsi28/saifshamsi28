@@ -14,8 +14,8 @@
 - 🌱 I’m currently learning **Springboot**
 - 💬 Ask me about **Android,Java,DSA,Springboot**
 - 📫 How to reach me **saifshamsi9905@gmail.com**
-- 📄 Know about my experiences [https://drive.google.com/file/d/1G6vXBAmT8fYB6TgDNWV5yrJXSN3Gs7Ng/view?usp=drivesdk](https://drive.google.com/file/d/1G6vXBAmT8fYB6TgDNWV5yrJXSN3Gs7Ng/view?usp=drivesdk)
-- ⚡ Fun fact **Your brain is constantly eating itself.So don't think too much just do what so you want😍.**
+- 📄 Know about my experiences \n[https://drive.google.com/file/d/1G6vXBAmT8fYB6TgDNWV5yrJXSN3Gs7Ng/view?usp=drivesdk](https://drive.google.com/file/d/1G6vXBAmT8fYB6TgDNWV5yrJXSN3Gs7Ng/view?usp=drivesdk)
+- ⚡ Fun fact \n**Your brain is constantly eating itself.So don't think too much just do what so you want😍.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
