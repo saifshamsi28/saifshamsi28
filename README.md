@@ -11,11 +11,13 @@
 </p>
 
 - 🔭 I’m currently working on [JobNet:A Smart Job Finder](https://github.com/saifshamsi28/JobNet-Springboot-backend)
-- 🌱 I’m currently learning **Springboot**
-- 💬 Ask me about **Android,Java,DSA,Springboot**
-- 📫 How to reach me **saifshamsi9905@gmail.com**
-- 📄 Know about my experiences \n[https://drive.google.com/file/d/1G6vXBAmT8fYB6TgDNWV5yrJXSN3Gs7Ng/view?usp=drivesdk](https://drive.google.com/file/d/1G6vXBAmT8fYB6TgDNWV5yrJXSN3Gs7Ng/view?usp=drivesdk)
-- ⚡ Fun fact \n**Your brain is constantly eating itself.So don't think too much just do what so you want😍.**
+- 🌱 I’m currently learning: **Springboot**
+- 💬 Ask me about: **Android,Java,DSA,Springboot**
+- 📫 How to reach me: **saifshamsi9905@gmail.com**
+- 📄 Know about my experiences :
+  https://drive.google.com/file/d/1G6vXBAmT8fYB6TgDNWV5yrJXSN3Gs7Ng/view?usp=drivesdk
+- ⚡ Fun fact:- 
+  **Your brain is constantly eating itself.So don't think too much😄.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -109,8 +111,8 @@
   &nbsp;
   &nbsp;
 <p>&nbsp;
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=saifshamsi28&show_icons=true&locale=en" alt="saifshamsi28" width="200" height="100" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=saifshamsi28&" alt="saifshamsi28" width="200" height="100"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=saifshamsi28&show_icons=true&locale=en" alt="saifshamsi28" width="300" height="150" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=saifshamsi28&" alt="saifshamsi28" width="300" height="150"/>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saifshamsi28&show_icons=true&locale=en&layout=compact" alt="saifshamsi28" />
