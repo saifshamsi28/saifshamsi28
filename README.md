@@ -119,7 +119,7 @@
 
   <!-- Streak Stats -->
   <div style="margin-top: 30px; text-align: center;">
-    <img src="https://streak-stats.demolab.com/?user=saifshamsi28&theme=dark&card_width=800&show_icons=true"
+    <img src="https://streak-stats.demolab.com/?user=saifshamsi28&theme=dark"
          alt="Streak Stats" 
          width="600" 
       height = "200"
