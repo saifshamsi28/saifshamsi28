@@ -119,7 +119,7 @@
 
   <!-- Streak Stats -->
   <div style="margin-top: 30px; text-align: center;">
-    <img src="https://streak-stats.demolab.com?user=saifshamsi28" alt="GitHub Streak"
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=saifshamsi28&theme=dark" alt="GitHub Streak"
          width="600" 
       height = "200"
          style="margin-top: 20px;" />
