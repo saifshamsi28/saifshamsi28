@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Md Saifullah</h1>
 
-<div><h3 align="center" style=text:justify>Hey this is Saif. I m currently building full fledged, robust and scalable android applications and love to explore new domains and fields.</h3>
+<div><h3 align="center" style=text:justify>
+A results-driven Android & Backend Developer with expertise in Java, Spring Boot, MongoDB, and Firebase,
+ specializing in job search platforms and real-time chat applications. Experienced in building efficient and scalable
+ backends using Spring Boot , integrating MongoDB for optimized data retrieval, and leveraging Room Database to
+ enhance mobile app performance by up to 40%. Skilled in real-time communication with Firebase and proficient in
+ REST API development..</h3>
 </div>
 &nbsp;
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saifshamsi28&label=Profile%20views&color=0e75b6&style=flat" alt="saifshamsi28" /> </p>
