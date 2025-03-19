@@ -15,7 +15,7 @@ A results-driven Android & Backend Developer with expertise in Java, Spring Boot
   </a>
 </p>
 
-- 🔭 I’m currently working on [JobNet:A Smart Job Finder](https://github.com/saifshamsi28/JobNet-Springboot-backend)
+- 🔭 I’m currently working on **[JobNet:A Smart Job Finder]**(https://github.com/saifshamsi28/JobNet-Springboot-backend)
 - 🌱 I’m currently learning: **Springboot**
 - 💬 Ask me about: **Android,Java,DSA,Springboot**
 - 📫 How to reach me: **saifshamsi9905@gmail.com**
