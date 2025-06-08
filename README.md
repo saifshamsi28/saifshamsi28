@@ -11,7 +11,7 @@ A results-driven Android & Backend Developer with expertise in Java, Spring Boot
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saifshamsi28&label=Profile%20views&color=0e75b6&style=flat" alt="saifshamsi28" /> </p>
 <p align="right"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy" align="right">
-    <img src="https://github-profile-trophy.vercel.app/?username=saifshamsi28&margin-w=15&theme=onedark" alt="saifshamsi28" style="margin-right: 10px;" />
+    <img src="https://github-profile-trophy.vercel.app/?username=saifshamsi28&margin-w=15&theme=gitdimmed" alt="saifshamsi28" style="margin-right: 10px;" />
   </a>
 </p>
 &nbsp;
