@@ -1,238 +1,321 @@
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     HEADER BANNER                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=MD%20SAIFULLAH&fontSize=50&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Spring%20Boot%20%7C%20Microservices%20%7C%20Distributed%20Systems&descAlignY=58&descSize=16&descColor=a8b2d8" />
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=MD%20SAIFULLAH&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Backend%20Engineer%20%E2%80%A2%20Microservices%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20Distributed%20Systems&descSize=18&descColor=a8d8ea&descAlignY=62" />
 </div>
 
 <div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Building+Scalable+Microservices+%F0%9F%9A%80;Spring+Boot+%2B+Kafka+%2B+Spring+Cloud+%E2%9A%A1;Event-Driven+Distributed+Systems+%F0%9F%94%97;REST+APIs+%7C+JWT+%7C+Docker+%7C+PostgreSQL+%F0%9F%90%B3;Open+to+Backend+%26+SDE+Opportunities+%F0%9F%92%BC" alt="Typing SVG" />
+  </a>
+</div>
 
+<br/>
+
+<!-- SOCIAL BADGES -->
+<div align="center">
   <a href="https://www.iamsaifullah.me" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-iamsaifullah.me-e94560?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌐_Portfolio-iamsaifullah.me-FF6B6B?style=for-the-badge&labelColor=1a1a2e" />
   </a>
-  &nbsp;
   <a href="https://www.linkedin.com/in/md-saifullah-b8a201239/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;
   <a href="mailto:saifshamsi9905@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-saifshamsi9905-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  &nbsp;
   <a href="https://leetcode.com/u/toxic_saif/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  &nbsp;
   <a href="https://www.geeksforgeeks.org/user/saifshamig3l/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+    <img src="https://img.shields.io/badge/GFG-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=saifshamsi28&label=Profile+Views&color=58a6ff&style=for-the-badge" />
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     ABOUT ME                                   -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img align="right" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="coding gif" />
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+
+```yaml
+name        : MD Saifullah
+title       : Backend Engineer
+location    : Hyderabad, Telangana 🇮🇳
+portfolio   : https://www.iamsaifullah.me
+education   : B.Tech CSE @ MANUU | CGPA 8.59
+
+focus:
+  - Microservices Architecture (Spring Cloud)
+  - Event-Driven Systems (Apache Kafka)
+  - Scalable REST API Design
+  - Android Development
+
+currently_building:
+  - "🏋️ Fitness App — Spring Boot Microservices"
+  - "⚡ Kafka-powered Event-Driven Backend"
+  - "🔐 JWT Auth with Spring Security"
+
+ask_me_about:
+  - Spring Boot · Microservices · Kafka
+  - Android · Java · DSA · Docker
+
+fun_fact: >
+  Your brain is constantly eating itself.
+  So don't think too much 😄
+```
+
+<br clear="right" />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     TECH STACK                                 -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Stack
+
+<div align="center">
+
+### 🔤 Languages
+[![Languages](https://skillicons.dev/icons?i=java,kotlin,python,c,cpp&perline=10&theme=dark)](https://skillicons.dev)
+
+### 🛠 Backend & Frameworks
+[![Backend](https://skillicons.dev/icons?i=spring,hibernate&perline=10&theme=dark)](https://skillicons.dev)
+
+<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white&labelColor=000" height="28"/>
+<img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Eureka%20Server-6DB33F?style=flat-square&logo=spring&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/API%20Gateway-6DB33F?style=flat-square&logo=spring&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=flat-square&logo=postman&logoColor=white" height="28"/>
+
+### 🗄 Databases & Caching
+[![Databases](https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis,firebase&perline=10&theme=dark)](https://skillicons.dev)
+
+### ⚙️ DevOps & Tools
+[![DevOps](https://skillicons.dev/icons?i=docker,git,github,postman,maven,vscode,idea&perline=10&theme=dark)](https://skillicons.dev)
+
+### 📱 Mobile & Cloud
+[![Mobile](https://skillicons.dev/icons?i=android,gcp&perline=10&theme=dark)](https://skillicons.dev)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   FEATURED PROJECTS                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Featured Projects
+
+<!-- PROJECT 1 -->
+<details open>
+<summary><b>🏋️ Fitness App — Microservices Architecture &nbsp;|&nbsp; Dec 2025 – Jan 2026</b></summary>
+<br/>
+
+> Production-grade microservices backend built with **Spring Boot + Spring Cloud + Apache Kafka**, following industry-standard distributed systems design.
+
+| Module | Technology | Role |
+|--------|-----------|------|
+| 🔍 Service Discovery | Netflix Eureka | Dynamic registration & inter-service communication |
+| 🔀 API Gateway | Spring Cloud Gateway | Routing, load balancing & request forwarding |
+| ⚡ Messaging | Apache Kafka | Event-driven communication — Activity ↔ AI Service |
+| ⚙️ Config | Spring Cloud Config Server | Centralized config management across all services |
+| 🗄️ Storage | PostgreSQL + MongoDB | Polyglot persistence for structured & unstructured data |
+| 🐳 Infra | Docker | Containerized multi-service deployment |
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+</p>
+
+</details>
+
+<br/>
+
+<!-- PROJECT 2 -->
+<details open>
+<summary><b>💼 JobNet: Smart Job Finder &nbsp;|&nbsp; Nov 2024 – Jan 2025 &nbsp;|&nbsp; <a href="https://github.com/saifshamsi28/JobNet-Springboot-backend">GitHub →</a></b></summary>
+<br/>
+
+> Full-stack job search platform aggregating live listings from **Naukri & Indeed** with resume parsing and skill-based job recommendations.
+
+| Feature | Detail |
+|---------|--------|
+| 🔐 Security | JWT-based authentication & authorization |
+| 🕷️ Scraper | Python Flask scraper — Naukri + Indeed aggregation |
+| 🗃️ Database | MongoDB for optimized job data storage & retrieval |
+| 📱 Android | Room DB integration → **40% reduction** in API calls |
+| 📄 AI Feature | Resume parsing for skill-based job recommendations |
+| 🌐 Frontend | HTML / CSS / JavaScript for API testing UI |
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+</p>
+
+</details>
+
+<br/>
+
+<!-- PROJECT 3 - BELGIUMBAGS (placeholder — update with your portfolio details) -->
+<details open>
+<summary><b>🛍️ BelgiumBags — Client E-Commerce Project &nbsp;|&nbsp; <a href="https://belgiumbags.com" target="_blank">belgiumbags.com 🌐 Live</a></b></summary>
+<br/>
+
+> **Freelance client project** — delivered a fully functional e-commerce web platform for a Belgium-based bag brand. A real-world production deployment.
+
+<!-- ⚠️  UPDATE THE TABLE BELOW WITH DETAILS FROM YOUR PORTFOLIO  ⚠️ -->
+
+| Aspect | Detail |
+|--------|--------|
+| 🌍 Client | Belgium-based bags & accessories brand |
+| 🎯 Scope | Full e-commerce platform — product catalog, cart, orders |
+| 🛠 Tech Stack | *(update from your portfolio — e.g. Spring Boot / Node / React)* |
+| 🔐 Auth | *(e.g. JWT / OAuth2 / Firebase Auth)* |
+| 💳 Payments | *(e.g. Stripe / Razorpay integration)* |
+| 🚀 Deployment | *(e.g. AWS / GCP / Railway / Render)* |
+| 📦 Status | ✅ Live in Production |
+
+<p>
+  <img src="https://img.shields.io/badge/Status-Live_🟢-28a745?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Type-Freelance_Client-e94560?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Domain-E--Commerce-FF6B6B?style=flat-square"/>
+</p>
+
+&nbsp; 🔗 **[Visit Live Site →](https://belgiumbags.com)**
+
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   ARCHITECTURE HIGHLIGHT                       -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🏗️ Microservices Architecture (Fitness App)
+
+```
+                    ┌─────────────────────────────────────────────┐
+                    │           Spring Cloud Config Server         │
+                    │        (Centralized Configuration)           │
+                    └──────────────────┬──────────────────────────┘
+                                       │
+                    ┌──────────────────▼──────────────────────────┐
+                    │           Netflix Eureka Server              │
+                    │          (Service Discovery)                 │
+                    └──────────────────┬──────────────────────────┘
+                                       │
+              ┌────────────────────────▼────────────────────────┐
+              │              Spring Cloud Gateway                │
+              │       (Routing · Load Balancing · Auth)          │
+              └──────┬──────────────────────────────┬───────────┘
+                     │                              │
+          ┌──────────▼───────────┐      ┌──────────▼──────────────┐
+          │    User Service      │      │   Activity Service       │
+          │   (PostgreSQL)       │      │    (MongoDB)             │
+          └──────────────────────┘      └────────────┬────────────┘
+                                                     │  Apache Kafka
+                                        ┌────────────▼────────────┐
+                                        │      AI Service          │
+                                        │  (Event Consumer)        │
+                                        └─────────────────────────┘
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   GITHUB STATS                                 -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=saifshamsi28&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=saifshamsi28&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" />
+
+  <br/><br/>
+
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifshamsi28&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" />
 
 </div>
 
 <br/>
 
-<img align="right" alt="Coding" width="370" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
-
-## 👨‍💻 About Me
-
-```java
-@Component
-public class MdSaifullah extends BackendEngineer {
-
-    private final String location    = "Hyderabad, Telangana 🇮🇳";
-    private final String university  = "Maulana Azad National Urdu University";
-    private final String degree      = "B.Tech CSE | CGPA: 8.59";
-    private final String portfolio   = "https://www.iamsaifullah.me";
-
-    @Override
-    public String[] currentlyBuilding() {
-        return new String[]{
-            "Microservices with Spring Cloud + Kafka",
-            "Event-Driven Distributed Systems",
-            "Scalable REST APIs with JWT Auth"
-        };
-    }
-
-    @Override
-    public String[] askMeAbout() {
-        return new String[]{
-            "Spring Boot", "Microservices", "Kafka",
-            "Android Dev", "Java", "DSA"
-        };
-    }
-
-    public String funFact() {
-        return "Your brain is constantly eating itself. Don't think too much 😄";
-    }
-}
-```
-
-<br clear="right"/>
-
----
-
-## 🛠️ Tech Stack
-
 <div align="center">
-
-**Languages**
-
-[![Languages](https://skillicons.dev/icons?i=java,kotlin,python,c,cpp&perline=10)](https://skillicons.dev)
-
-**Backend & Frameworks**
-
-[![Backend](https://skillicons.dev/icons?i=spring,hibernate&perline=10)](https://skillicons.dev)
-
-<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-<img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
-
-**Databases**
-
-[![Databases](https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,firebase&perline=10)](https://skillicons.dev)
-
-**DevOps & Tools**
-
-[![DevOps](https://skillicons.dev/icons?i=docker,git,github,postman,maven,vscode,idea&perline=10)](https://skillicons.dev)
-
-**Mobile & Cloud**
-
-[![Mobile](https://skillicons.dev/icons?i=android,gcp&perline=10)](https://skillicons.dev)
-
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=saifshamsi28&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b&area=true&hide_border=true&area_color=1a3a5c" />
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🚀 Featured Projects
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   ACHIEVEMENTS                                 -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🏆 Achievements & Trophies
 
 <div align="center">
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🏋️ Fitness App — Microservices</h3>
-      <p align="center">
-        <a href="https://github.com/saifshamsi28" target="_blank">
-          <img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github" />
-        </a>
-      </p>
-      <p>
-        Production-grade <strong>microservices backend</strong> following industry-standard architecture patterns.
-      </p>
-      <ul>
-        <li>🔍 <strong>Netflix Eureka</strong> for service discovery & dynamic registration</li>
-        <li>🔀 <strong>Spring Cloud Gateway</strong> for routing, load balancing & request forwarding</li>
-        <li>⚡ <strong>Apache Kafka</strong> for event-driven communication between Activity & AI services</li>
-        <li>⚙️ <strong>Spring Cloud Config Server</strong> for centralized configuration management</li>
-        <li>🗄️ <strong>PostgreSQL + MongoDB</strong> for polyglot persistence</li>
-        <li>🐳 <strong>Docker</strong> containerized deployment</li>
-      </ul>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
-        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" />
-        <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">💼 JobNet — Smart Job Finder</h3>
-      <p align="center">
-        <a href="https://github.com/saifshamsi28/JobNet-Springboot-backend" target="_blank">
-          <img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github" />
-        </a>
-      </p>
-      <p>
-        Full-stack <strong>job search platform</strong> aggregating listings from Naukri & Indeed.
-      </p>
-      <ul>
-        <li>🔐 <strong>JWT Authentication</strong> for secured API access</li>
-        <li>🕷️ <strong>Python Flask scraper</strong> aggregating jobs from Naukri & Indeed</li>
-        <li>🗃️ <strong>MongoDB</strong> for optimized job data storage & retrieval</li>
-        <li>📱 <strong>Room Database</strong> integration reducing redundant API calls by <strong>40%</strong></li>
-        <li>📄 <strong>Resume Parser</strong> for skill-based job recommendations</li>
-        <li>🌐 HTML/CSS/JS UI for backend API testing</li>
-      </ul>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
-        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=saifshamsi28&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
 </div>
 
----
-
-## 🏆 Achievements & Highlights
+<br/>
 
 <div align="center">
 
-| 🥈 | Secured **2nd place** among **130+ participants** in University-level Coding Contest |
-|:---:|:---|
-| 🎓 | B.Tech CSE — **CGPA 8.59** @ Maulana Azad National Urdu University |
+| 🥈 | **2nd Place** — University Coding Contest (130+ participants) |
+|:--:|:--|
+| 🎓 | **B.Tech CSE, CGPA 8.59** — Maulana Azad National Urdu University |
+| ⚡ | **40% Performance Boost** — Room DB optimization, JobNet app |
+| 🌍 | **Freelance Client Delivery** — belgiumbags.com (Live Production) |
 | 🌐 | Personal Portfolio live at **[iamsaifullah.me](https://www.iamsaifullah.me)** |
-| 💡 | Optimized DB queries achieving **40% performance improvement** |
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=saifshamsi28&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifshamsi28&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=saifshamsi28&theme=tokyonight&hide_border=true" width="600" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saifshamsi28&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" />
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saifshamsi28&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</div>
-
----
-
-## 🤝 Let's Connect
+## 🤝 Let's Connect & Collaborate
 
 <div align="center">
 
   <a href="https://www.iamsaifullah.me" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-iamsaifullah.me-e94560?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🌐_Portfolio-iamsaifullah.me-FF6B6B?style=for-the-badge&labelColor=1a1a2e" />
   </a>
-  &nbsp;
   <a href="https://www.linkedin.com/in/md-saifullah-b8a201239/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-MD%20Saifullah-0077B5?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
-  &nbsp;
   <a href="mailto:saifshamsi9905@gmail.com">
-    <img src="https://img.shields.io/badge/Email-saifshamsi9905%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
   <br/><br/>
 
-  <img src="https://komarev.com/ghpvc/?username=saifshamsi28&label=Profile%20Views&color=e94560&style=for-the-badge" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=100&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 </div>
