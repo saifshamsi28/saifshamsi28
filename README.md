@@ -82,10 +82,10 @@ fun_fact: >
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Stack
 
 ### 🔤 Languages
-[![Languages](https://skillicons.dev/icons?i=java,cs,kotlin,python,c,cpp,css,js&perline=10&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=java,cs,kotlin,python,c,cpp,js&perline=10&theme=dark)](https://skillicons.dev)
 
 ### 🛠 Backend & Frameworks
-[![Backend](https://skillicons.dev/icons?i=spring,dotnet,node,react,hibernate&perline=10&theme=dark)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=spring,dotnet,nodejs,react,hibernate&perline=10&theme=dark)](https://skillicons.dev)
 
 &nbsp;
 <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white&labelColor=000" height="26"/>
@@ -101,13 +101,8 @@ fun_fact: >
 <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" height="26"/>
 &nbsp;
 <img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=flat-square&logo=postman&logoColor=white" height="26"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" height="26"/>
-&nbsp;
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" height="26"/>
-
 ### 🗄 Databases & Caching
-[![Databases](https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis,supabase,firebase&perline=10&theme=dark)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=postgresql,mongodb,mysql,sqlite,redis,supabase,firebase&perline=10&theme=dark)](https://skillicons.dev)
 
 ### ⚙️ DevOps & Tools
 [![DevOps](https://skillicons.dev/icons?i=docker,git,github,jenkins,postman,maven,vscode,visualstudio,idea,androidstudio&perline=10&theme=dark)](https://skillicons.dev)
