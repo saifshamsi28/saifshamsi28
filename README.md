@@ -82,10 +82,10 @@ fun_fact: >
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Stack
 
 ### 🔤 Languages
-[![Languages](https://skillicons.dev/icons?i=java,kotlin,python,c,cpp&perline=10&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=java,cs,kotlin,python,c,cpp&perline=10&theme=dark)](https://skillicons.dev)
 
 ### 🛠 Backend & Frameworks
-[![Backend](https://skillicons.dev/icons?i=spring,hibernate&perline=10&theme=dark)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=spring,dotnet,hibernate&perline=10&theme=dark)](https://skillicons.dev)
 
 &nbsp;
 <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white&labelColor=000" height="26"/>
